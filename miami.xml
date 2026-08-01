@@ -4,7 +4,7 @@
     <!-- MotoCam -->
     <remote
         name="motorola-miami"
-        fetch="https://gitlab.com/motorola-miami/" />
+        fetch="https://gitlab.com/motorola-miami" />
 
     <!-- Miami -->
     <remote name="miami" fetch="https://github.com/zedisspp" clone-depth="1" />
