@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <!-- MotoCam -->
-    <remote
-        name="motorola-miami"
-        fetch="https://gitlab.com/motorola-miami" />
-
     <!-- Miami -->
     <remote name="miami" fetch="https://github.com/zedisspp" clone-depth="1" />
 
+    <!-- MotoCam -->
+    <remote name="motorola-miami" fetch="https://gitlab.com/motorola-miami" clone-depth="1" />
+    
     <!-- Repos -->
     <!-- Device -->
     <project path="device/motorola/miami" name="device_motorola_miami" remote="miami" revision="lineage-23.2" />
