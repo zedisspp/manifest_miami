@@ -24,15 +24,12 @@
     <project path="hardware/motorola" name="hardware_motorola" remote="miami" revision="lineage-23.2" />
 
     <!-- Hardware dolby -->
-    <project path="hardware/dolby" name="hardware_dolby" remote="miami" revision="lineage-23.2" />
+    <project path="hardware/dolby" name="hardware_dolby" remote="miami" revision="lineage-24.0" />
     
     <!-- Hardware nfc -->
     <project path="hardware/samsung/slsi/nfc" name="hardware_samsung_slsi_nfc" remote="miami" revision="lineage-23.2" />
     
     <!-- GameBar -->
     <project path="packages/apps/GameBar" name="packages_apps_GameBar" remote="miami" revision="lineage-23.2" />
-
-    <!-- Viper4fx -->
-    <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="miami" revision="v4a" />
     
 </manifest>
