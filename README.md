@@ -1,4 +1,5 @@
-# miami_manifest
+![miami](banner/miami.png)
+# Motorola Moto Edge 30 Neo (miami) Manifest
 
 ```
 mkdir -p .repo/local_manifests
